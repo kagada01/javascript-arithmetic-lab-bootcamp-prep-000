@@ -27,6 +27,11 @@ function makeInt(a) {
   return(a)
 }
 
+function makeInt(0x2328) {
+  parseInt(0x2328), 10)
+  return(0x2328))
+}
+
 function makeInt(sldkjflksjf) {
   parseInt(sldkjflksjf, 10)
   return(sldkjflksjf)
