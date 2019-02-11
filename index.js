@@ -23,5 +23,6 @@ function dec(a){
 }
 
 function makeInt(a) {
+  a*0
   return(a)
 }
