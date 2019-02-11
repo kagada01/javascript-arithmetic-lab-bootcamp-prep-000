@@ -29,7 +29,7 @@ function makeInt(a) {
 
 function makeInt(sldkjflksjf) {
   parseInt(sldkjflksjf, 10)
-  return(a)
+  return(sldkjflksjf)
 }
 
 function preserveDecimal(a) {
