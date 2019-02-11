@@ -1,5 +1,5 @@
 function add(a, b){
-  a = 1000
-  b = 774
+  a = Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 1000)
   return(a+b)
 }
