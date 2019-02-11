@@ -21,3 +21,8 @@ function divide(a, b){
   b = Math.floor(Math.random() * 1000)
   return(a/b)
 }
+
+function inc(a){
+  a = Math.floor(Math.random() * 1000)
+  return(a+1)
+}
