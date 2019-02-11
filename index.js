@@ -27,6 +27,11 @@ function makeInt(a) {
   return(a)
 }
 
+function makeInt(sldkjflksjf) {
+  parseInt(sldkjflksjf, 10)
+  return(a)
+}
+
 function preserveDecimal(a) {
   parseFloat(a, 10)
   return (a)
