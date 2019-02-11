@@ -27,3 +27,9 @@ function inc(a){
   a++
   return(a)
 }
+
+function dec(a){
+  a = Math.floor(Math.random() * 1000)
+  a--
+  return(a)
+}
